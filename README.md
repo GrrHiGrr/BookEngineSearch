@@ -14,9 +14,7 @@
 
 ## Usage
 
-![screenshot1](screenshot1.jpg)
-
-[Heroku Deployed Application]()
+[Heroku Deployed Application](https://grrhigrr-bookenginesearch.herokuapp.com/)
 
 
 ## License
